@@ -1,5 +1,5 @@
 {
-    "name": "Igor100/telegramcli",
+    "name": "Igor100/php-telegram-cli",
     "description": "php wrapper for telegram cli",
     "license": "MIT",
     "repositories": [ {
