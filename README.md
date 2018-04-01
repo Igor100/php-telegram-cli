@@ -7,7 +7,7 @@ create a `composer.json` and put the following command in it :
 ```
 {
     "require": {
-        "smoqadam/telegramcli": "@dev"
+        "igor100/telegramcli": "@dev"
     }
 }
 ```
